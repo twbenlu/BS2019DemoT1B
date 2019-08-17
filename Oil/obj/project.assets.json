@@ -12646,11 +12646,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\dnaiel\\Desktop\\Oil(A)\\Oil2\\Oil\\Oil.csproj",
+      "projectUniqueName": "D:\\Oil\\Oil2\\Oil\\Oil.csproj",
       "projectName": "Oil",
-      "projectPath": "C:\\Users\\dnaiel\\Desktop\\Oil(A)\\Oil2\\Oil\\Oil.csproj",
+      "projectPath": "D:\\Oil\\Oil2\\Oil\\Oil.csproj",
       "packagesPath": "C:\\Users\\dnaiel\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\dnaiel\\Desktop\\Oil(A)\\Oil2\\Oil\\obj\\",
+      "outputPath": "D:\\Oil\\Oil2\\Oil\\obj\\",
       "projectStyle": "PackageReference",
       "fallbackFolders": [
         "C:\\Program Files\\dotnet\\sdk\\NuGetFallbackFolder"

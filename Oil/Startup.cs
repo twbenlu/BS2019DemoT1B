@@ -39,7 +39,7 @@ namespace Oil
                 options.AddPolicy("AllowCors",
                 x =>
                 {
-                    x.WithOrigins("http://localhost:4205")
+                    x.WithOrigins("http://localhost:4201")
                     .AllowAnyHeader()
                     .AllowAnyMethod()
                     .AllowCredentials();

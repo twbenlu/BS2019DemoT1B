@@ -21,7 +21,7 @@ namespace Oil
         WebHost.CreateDefaultBuilder(args)
         .UseStartup<Startup>()
         .UseKestrel()
-        .UseUrls("http://*:5004")
+        .UseUrls("http://*:5001")
         .Build();
     }
 }
